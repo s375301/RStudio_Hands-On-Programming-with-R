@@ -1,2 +1,4 @@
-# RStudio_Hands-On-Programming-with-R
-#Hands-On Programming with R
+# Hands On Programming with R
+
+credit by rstudio-education
+url : https://github.com/rstudio-education/hopr
